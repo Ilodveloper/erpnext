@@ -6,103 +6,95 @@
  "idx": 0,
  "items": [
   {
-   "added": 0,
+   "added": 1,
    "hidden": 0,
    "icon": "sliders-soft",
    "link_to": "Setup",
    "link_type": "Sidebar",
-   "title": "Setup"
+   "title": "Configuration"
   },
   {
-   "added": 0,
-   "hidden": 0,
+   "added": 1,
+   "hidden": 1,
    "icon": "calculator-soft",
    "link_to": "Accounts",
    "link_type": "Sidebar",
-   "title": "Accounts"
+   "title": "Comptes"
   },
   {
-   "added": 0,
-   "hidden": 0,
+   "added": 1,
+   "hidden": 1,
    "icon": "storefront-soft",
    "link_to": "Selling",
    "link_type": "Sidebar",
-   "title": "Selling"
+   "title": "Vente"
   },
   {
-   "added": 0,
-   "hidden": 0,
+   "added": 1,
+   "hidden": 1,
    "icon": "shopping-cart-soft",
    "link_to": "Buying",
    "link_type": "Sidebar",
-   "title": "Buying"
+   "title": "Achat"
   },
   {
-   "added": 0,
-   "hidden": 0,
+   "added": 1,
+   "hidden": 1,
    "icon": "shelf-rack-soft",
    "link_to": "Stock",
    "link_type": "Sidebar",
    "title": "Stock"
   },
   {
-   "added": 0,
-   "hidden": 0,
+   "added": 1,
+   "hidden": 1,
    "icon": "factory-soft",
    "link_to": "Manufacturing",
    "link_type": "Sidebar",
-   "title": "Manufacturing"
+   "title": "Production"
   },
   {
-   "added": 0,
+   "added": 1,
    "hidden": 0,
    "icon": "gantt-chart-soft",
    "link_to": "Projects",
    "link_type": "Sidebar",
-   "title": "Projects"
+   "title": "Projets"
   },
   {
-   "added": 0,
-   "hidden": 0,
+   "added": 1,
+   "hidden": 1,
    "icon": "asset-hand-soft",
    "link_to": "Assets",
    "link_type": "Sidebar",
-   "title": "Assets"
+   "title": "Actifs - Immo."
   },
   {
-   "added": 0,
-   "hidden": 0,
+   "added": 1,
+   "hidden": 1,
    "icon": "quality-seal-soft",
    "link_to": "Quality",
    "link_type": "Sidebar",
-   "title": "Quality"
+   "title": "Qualit\u00e9"
   },
   {
-   "added": 0,
-   "hidden": 1,
+   "added": 1,
+   "hidden": 0,
    "icon": "handshake-soft",
    "link_to": "CRM",
    "link_type": "Sidebar",
    "title": "CRM"
   },
   {
-   "added": 0,
+   "added": 1,
    "hidden": 1,
    "icon": "headset-soft",
    "link_to": "Support",
    "link_type": "Sidebar",
-   "title": "Support"
-  },
-  {
-   "added": 0,
-   "hidden": 0,
-   "icon": "portal-user-soft",
-   "link_to": "Portal",
-   "link_type": "Sidebar",
-   "title": "Portal"
+   "title": "Assistance/Support"
   }
  ],
- "modified": "2026-10-08 19:00:00.000000",
+ "modified": "2026-11-11 16:25:24.204262",
  "modified_by": "Administrator",
  "name": "erpnext",
  "owner": "Administrator",
